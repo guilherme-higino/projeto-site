@@ -115,6 +115,8 @@ Este projeto foi desenvolvido durante um curso de Git e GitHub com foco em prát
 
 ---
 
-## 👨‍💻 Autor **Guilherme Higino**
+## 👨‍💻 Autor
+
+**Guilherme Higino**
 
     Desenvolvedor em formação focado em evolução constante 🚀
